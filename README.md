@@ -1,12 +1,12 @@
-# My Dotfiles
+# Reminder to how I should use my own dotfiles
 
-How to use this?
-----------------
-Existing configuration
+For an existing configuration
+-----------------------------
 1. cd ~/dotfiles
 2. git pull
 3. ./makesymlinks.sh
 4. Done
 
-New configuration
-...
+For a new configuration
+-----------------------
+1. ...
