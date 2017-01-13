@@ -3,10 +3,10 @@
 
 # Urxvt config
 # ------------
-Urxvt.font: 9x15bold
+URxvt.font: 9x15bold
 
-Urxvt.background: Black
-Urxvt.foreground: White
-Urxvt.geometry: 80x30
-Urxvt.scrollBar: false
+URxvt.background: Black
+URxvt.foreground: White
+URxvt.geometry: 80x30
+URxvt.scrollBar: false
 
