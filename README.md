@@ -1,10 +1,12 @@
 # My Dotfiles
 
 How to use this?
----------------
-1. Go to dotfiles directory
-2. Git pull
-3. /.script
+----------------
+Existing configuration
+1. cd ~/dotfiles
+2. git pull
+3. ./makesymlinks.sh
 4. Done
 
-
+New configuration
+...
