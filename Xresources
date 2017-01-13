@@ -1,0 +1,6 @@
+# Xresources config file
+# Created by Wout on 13/01/2017
+
+# Urxvt config
+# ------------
+Urxvt.font: 9x15bold
