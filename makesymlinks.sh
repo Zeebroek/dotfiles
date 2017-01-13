@@ -29,3 +29,6 @@ for file in $files; do
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
 done
+
+# Load the new Xresources configuration (http://unix.stackexchange.com/questions/260338/urxvt-xresources-not-reading-loading)
+xrdb ~/.Xresources
