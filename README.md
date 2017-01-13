@@ -13,6 +13,7 @@ For a new configuration
 
 Files
 -----------------------
-README.md = this
-makesymlinks.sh = script to auto generate symlinks for the different dotfiles
-xinitrc = config of i3wm -> startx and i3 will fire up
+- README.md = this
+- makesymlinks.sh = script to auto generate symlinks for the different dotfiles
+- xinitrc = config of i3wm -> startx and i3 will 
+- Xresources = mdsqkgj
