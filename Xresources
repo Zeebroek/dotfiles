@@ -1,12 +1,7 @@
-# Xresources config file
-# Created by Wout on 13/01/2017
+URxvt*font: 9x15bold
 
-# Urxvt config
-# ------------
-URxvt.font: 9x15bold
-
-URxvt.background: Black
-URxvt.foreground: White
-URxvt.geometry: 80x30
-URxvt.scrollBar: false
+URxvt*background: Black
+URxvt*foreground: White
+URxvt*geometry: 80x30
+URxvt*scrollBar: false
 
