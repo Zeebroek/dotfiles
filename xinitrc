@@ -7,5 +7,7 @@ setxkbmap be
 xrdb ~/.Xresources
 # Set screen resolution for VM
 xrandr --output Virtual-1 --mode 1680x1050
+# Set wallpaper
+wallpaper-reddit -f
 # Start i3
 exec i3
